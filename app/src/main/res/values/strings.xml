@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Easy Camera</string>
+    <string name="capture">Take Photo</string>
+    <string name="preview_area">Image Preview</string>
+</resources>
